@@ -8,6 +8,8 @@ const About = () => {
           <p className='text-lg lg:text-xl mb-5'>Welcome to the About page of The Curiosity Stack. Here, we share our journey and mission.</p>
           <p className='text-lg lg:text-xl mb-5'>Our goal is to inspire curiosity and foster a love for learning.</p>
         </div>
+
+
     </div>
   )
 }
